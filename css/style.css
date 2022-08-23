@@ -1,0 +1,27 @@
+.div1 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.div2 {
+    width: 100px;
+    height: 100px;
+    background: purple;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+
+.div3 {
+    width: 100px;
+    height: 100px;
+    background: rgb(216, 115, 216);
+    border-radius: 50%;
+    position: absolute;
+    top: 250px;
+    left:400px;
+}
